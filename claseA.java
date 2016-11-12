@@ -1,6 +1,7 @@
 public class ClaseA{
-  int x;
+  private int x;
   private int y;
+  prinvate int z;
   
   public classA(){
     x=0;
