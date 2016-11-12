@@ -7,5 +7,7 @@ public class ClaseA{
     y=0;
   }
   
-  println ("hola mundo");
+  public void mensaje(){
+    println ("hola mundo");
+  }
 }
